@@ -62,9 +62,6 @@ def get_similarity_list(texts, filenames=None):
 
 Clone the project
 
-```bash
-  git clone https://github.com/Karthik-02/plagiarism-detection.git
-```
 
 Go to the project directory
 
